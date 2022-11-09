@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrisLee-04-20
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Java and Python.
+- 🌱 I’m currently learning Java, Python, HTML and CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me leehokchi2444@gmail.com
 
