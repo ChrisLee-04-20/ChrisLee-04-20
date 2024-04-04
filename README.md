@@ -15,7 +15,9 @@ Currently, I am learning Kotlin for Android development.
 
 ## Goals
 
-1.  Further Learning ReactJS in 2024
+1.  Further Learning ReactJS in 2024 [Roadmap](https://roadmap.sh/react)
+2.  Further Learning VueJS in 2024 [Roadmap](https://roadmap.sh/vue)
+   
 
 ## Projects
 
