@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @ChrisLee-04-20
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java, Python, HTML, CSS, Javascript and react JS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me leehokchi2444@gmail.com
+# Introduction
+
+I am Chris a year 3 HKBU student majoring in computer science.
+Currently, I am learning Kotlin for Android development.
+
+## Language / Skills
+- Java
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Vue.js
+- Node.js (Express.js)
+
+## Goals
+
+1.  Further Learning ReactJS in 2024
+
+## Projects
 
 <!---
 ChrisLee-04-20/ChrisLee-04-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
