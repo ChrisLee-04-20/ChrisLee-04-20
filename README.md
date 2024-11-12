@@ -1,7 +1,7 @@
 # Introduction
 
-I am Chris a year 3 HKBU student majoring in computer science.
-Currently, I am learning Kotlin for Android development.
+I am Chris a year 4 HKBU student majoring in computer science.
+Currently, I am learning SwiftUI IOS development and working on the FYP for the web application with Spring Boot backend application and React JS for the front end.
 
 ## Language / Skills
 - Java
